@@ -1,0 +1,6 @@
+C:\Users\parth\source\repos\DevOps_Lab4\DevOps_Lab4\bin\Debug\DevOps_Lab4.dll
+C:\Users\parth\source\repos\DevOps_Lab4\DevOps_Lab4\bin\Debug\DevOps_Lab4.pdb
+C:\Users\parth\source\repos\DevOps_Lab4\DevOps_Lab4\obj\Debug\DevOps_Lab4.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\DevOps_Lab4\DevOps_Lab4\obj\Debug\DevOps_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\DevOps_Lab4\DevOps_Lab4\obj\Debug\DevOps_Lab4.dll
+C:\Users\parth\source\repos\DevOps_Lab4\DevOps_Lab4\obj\Debug\DevOps_Lab4.pdb
